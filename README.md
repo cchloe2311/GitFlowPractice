@@ -5,10 +5,12 @@ A repository to practice Git Flow
 Started to develop moduleA
 Have done with developing moduleA
 
-#ModuleC
+# ModuleC
 Checked that this file was from lastest develop branch
 Have done with developing moduleC
 
-#ModuleB
+# ModuleB
 Start to develop moduleB
 Temporary stop to deal with ModuleC
+
+Fixed bugs 
